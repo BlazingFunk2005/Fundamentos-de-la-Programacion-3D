@@ -21,3 +21,7 @@ Este comando me permito monitoriar todos los archivos los cuales no lo estan sie
 git commit -m "Inserte mensaje aca!"
 
 git remote add origin 
+
+git config user.name
+git config user.email
+git remote -v
