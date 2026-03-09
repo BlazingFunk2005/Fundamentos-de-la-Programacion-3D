@@ -19,3 +19,5 @@ git add .
 Este comando me permito monitoriar todos los archivos los cuales no lo estan siendo
 
 git commit -m "Inserte mensaje aca!"
+
+git remote add origin 
