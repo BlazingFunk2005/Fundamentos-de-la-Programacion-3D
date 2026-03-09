@@ -25,3 +25,6 @@ git remote add origin
 git config user.name
 git config user.email
 git remote -v
+
+Cambiar de rama y crear
+git checkout -b main
